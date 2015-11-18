@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+
+    <string name="distance_category">Vzdialenost</string>
+    <string name="max_distance">Vzdialenost</string>
+    <string name="max_distance_desc">Vyberete max vzdialenost</string>
+    <string name="action_settings">Nastavenia</string>
+
+    <string name="login_help">
+        Help:\n
+        This is help text.
+    </string>
+
+</resources>
